@@ -1,2 +1,2 @@
-# C-Patterns_Advanced
+# C++ Practical Design Patterns and Advanced Topics
 C++ Design Patterns and Advanced Topics
